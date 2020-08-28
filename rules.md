@@ -75,7 +75,7 @@
 ## 2.2.2 - TrucksBook 운행일지 규칙
 1. ETS2MCG Korea팀은 운행일지를 통해서도 팀원의 출석을 인정할 수 있습니다.
 1. TrucksBook 출석은 그 날짜 내 운행을 완료한 경우에 인정합니다.
-1. Real과 Race 모드는 TrucksBook에 따르며, 아래와 같습니다.
+1. Real과 Race 모드는 TrucksBook에 따르며, 다음과 같습니다.
     |최고 속도|Real|Race
     |---|---|---
     |ETS2|100km/h(62mph)|180km/h(112mph)
